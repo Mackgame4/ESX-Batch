@@ -1,7 +1,6 @@
 # ESX-Batch
-A simple ESX Batch file to download esx and all the addons
+A simple ESX Batch file to download esx and all the addons, why?, just to help users that can't make a default ESX server or a FiveM server and help people who need to download the esx and addones every new release
 
-![image.png](https://i.imgur.com/cezc10o.png)
 # :clipboard: **Source code**
 
 ```
