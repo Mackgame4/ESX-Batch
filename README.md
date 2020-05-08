@@ -201,12 +201,6 @@ start https://docs.fivem.net/docs/server-manual/setting-up-a-server/
 exit
 ```
 
-# :memo:  ***Changelogs***
-#### [CHECKLIST](https://github.com/OMG-Framework/omg_framework/blob/master/CHECKLIST.md)
-```
-✔️ Version 1.0.0 Public Release
-```
-
 # :lock: **Requirements:**
 
 ***IMPORTANT:*** Windows only
