@@ -214,7 +214,6 @@ WGET [https://builtvisible.com/download-your-website-with-wget] or is using Wind
 - Put ESX.bat in your Desktop
 - Execute and awser questions
 - Wait installation and have fun
-- Add to your server cfg the following line:
 
 # :bookmark: **Why batch?**
 Because is more "users friendly" and more thrustable than a .exe
