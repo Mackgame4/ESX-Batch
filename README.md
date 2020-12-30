@@ -148,7 +148,7 @@ exit
 ***IMPORTANT:*** __Windows only__
 
 [Git](https://git-scm.com)  
-`Installing Git: Just download and follow the installer`
+`Installing Git: Just download and follow the installer.`
 
 [WGET](https://eternallybored.org/misc/wget)  
 `Installing WGET:
