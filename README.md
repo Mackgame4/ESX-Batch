@@ -1,5 +1,5 @@
 # ESX-Batch
-A simple ESX Batch file to download esx and all the addons, why?, just to help users that can't make a default ESX server or a FiveM server and help people who need to download the esx and addones every new release
+A simple ESX Batch file to download esx and all the addons, why?, just to help users that can't make a default ESX server or a FiveM server and help people who need to download the esx and addons every new release, simply an **ESX one click installer**.
 
 # :clipboard: **Source code**
 
@@ -202,11 +202,14 @@ exit
 
 # :lock: **Requirements:**
 
-***IMPORTANT:*** Windows only
+***IMPORTANT:*** __Windows only__
 
-Git [https://git-scm.com/]
+[Git](https://git-scm.com)  
+`Installing Git: Just download and follow the installer`
 
-WGET [https://builtvisible.com/download-your-website-with-wget] or is using Windows server you dont need that
+[WGET](https://eternallybored.org/misc/wget)  
+`Installing WGET:
+Download the lastest version of WGET (for me 1.20.3), download the EXE, then copy and paste the EXE on your "C:\Windows\System32", carefully to do not destroy your PC, after that, it's done.`
 
 # :gear: **How to Use**
 
@@ -216,9 +219,9 @@ WGET [https://builtvisible.com/download-your-website-with-wget] or is using Wind
 - Wait installation and have fun
 
 # :bookmark: **Why batch?**
-Because is more "users friendly" and more thrustable than a .exe
+Because is more "users friendly" and more thrustable than a .exe or a compiled file
 
 # :cloud: **Download:**
 
-## [Here](https://github.com/Dev-OMG/ESX-Batch) or Github (https://github.com/Dev-OMG/ESX-Batch)
-### [Join ESX Discord](https://discord.gg/3R36mdX) or in (https://discord.gg/3R36mdX)
+## [Here](https://github.com/Mackgame4/ESX-Batch) or Github (https://github.com/Mackgame4/ESX-Batch)
+### [Join our Discord](https://discord.io/mack) or in (hhttps://discord.io/mack)
