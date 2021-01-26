@@ -158,7 +158,7 @@ Download the lastest version of WGET (for me 1.20.3), download the EXE, then cop
 
 - Download the **Requirements**
 - Put ESX.bat in your Desktop
-- Execute and awser questions
+- Execute and answer questions
 - Wait installation and have fun
 
 # :bookmark: **Why batch?**

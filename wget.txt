@@ -1,0 +1,3 @@
+How to Install WGET:
+1. Download the latest version of WGET in https://eternallybored.org/misc/wget (Select the .exe option)
+2. Copy the wget.exe to your System32 folder (ex: C:\Windows\System32)

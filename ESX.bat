@@ -28,7 +28,9 @@ goto :choice
 
 :git
 start https://git-scm.com/download/win
-start https://builtvisible.com/download-your-website-with-wget
+start ./git.txt
+start https://eternallybored.org/misc/wget
+start ./wget.txt
 goto :version
 
 :version
@@ -39,7 +41,7 @@ if /I "%c%" EQU "2" goto :new-esx
 :old-esx
 mkdir ESX
 cd ESX
-wget https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/3352-2222c06a36a89286edb9fc45fdc2f62d4a548ead/server.zip
+wget https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/3432-f4addebcb94c141a026ac0ada1af765d0e9828ff/server.zip
 git clone https://github.com/citizenfx/cfx-server-data
 rename "cfx-server-data" "server-data"
 cd server-data
@@ -112,7 +114,7 @@ goto :end
 :new-esx
 mkdir ESX
 cd ESX
-wget https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/3352-2222c06a36a89286edb9fc45fdc2f62d4a548ead/server.zip
+wget https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/3432-f4addebcb94c141a026ac0ada1af765d0e9828ff/server.zip
 git clone https://github.com/citizenfx/cfx-server-data
 rename "cfx-server-data" "server-data"
 cd server-data
