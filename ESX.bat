@@ -50,7 +50,7 @@ rename "irymu1U.png" "logo.png"
 cd resources
 mkdir [essentials]
 cd [essentials]
-git clone https://github.com/esx-framework/es_extended/archive/v1-final.zip
+wget https://github.com/esx-framework/es_extended/archive/v1-final.zip
 git clone https://github.com/brouznouf/fivem-mysql-async
 rename "fivem-mysql-async" "mysql-async"
 git clone https://github.com/esx-framework/async
