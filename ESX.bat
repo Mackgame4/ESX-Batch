@@ -28,8 +28,12 @@ goto :choice
 
 :git
 start https://git-scm.com/download/win
+wget https://pastebin.com/raw/66xnqyfX
+rename "66xnqyfX" "git.txt"
 start ./git.txt
 start https://eternallybored.org/misc/wget
+wget https://pastebin.com/raw/bAcykuje
+rename "bAcykuje" "wget.txt"
 start ./wget.txt
 goto :version
 
