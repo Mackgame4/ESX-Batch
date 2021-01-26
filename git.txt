@@ -1,4 +1,0 @@
-How to Install Git:
-1. Download Git in https://git-scm.com/download/win
-2. Execute the git installer
-3. Follow the installer
