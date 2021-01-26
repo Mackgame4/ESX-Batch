@@ -167,4 +167,4 @@ Because is more "users friendly" and more thrustable than a .exe or a compiled f
 # :cloud: **Download:**
 
 ## [Here](https://github.com/Mackgame4/ESX-Batch) or Github (https://github.com/Mackgame4/ESX-Batch)
-### [Join our Discord](https://discord.io/mack) or in (hhttps://discord.io/mack)
+### [Join our Discord](https://discord.io/mack) or in (https://discord.io/mack)
